@@ -1,0 +1,5 @@
+required = ["github.com/PuerkitoBio/goquery"]
+
+[prune]
+  go-tests = true
+  unused-packages = true
